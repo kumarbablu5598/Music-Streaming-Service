@@ -1,4 +1,4 @@
-## Music Streaming RestApi
+# Music Streaming RestApi
 ### Frameworks and Language used:
 * Spring
 * Spring boot
