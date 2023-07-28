@@ -26,9 +26,9 @@
   * I used Myslq Database In this Application.
  
 * SwaggerLink 
-  * http://3.7.45.171:8080/swagger-ui/index.html#/
+  * http://52.66.243.209 :8080/swagger-ui/index.html#/
 * LinkedIn
-  * https://www.linkedin.com/feed/update/urn:li:activity:7041841734976241664/
+  *  https://www.linkedin.com/posts/bablu-kumar-b19769187_geekster-java-springboot-activity-7090531326147067904-eb6v/
 
 
 ### Project Summery
